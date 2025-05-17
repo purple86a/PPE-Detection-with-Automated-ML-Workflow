@@ -1,0 +1,28 @@
+# Core dependencies
+ultralytics>=8.0.0
+torch>=1.7.0
+torchvision>=0.8.1
+numpy>=1.18.5
+opencv-python>=4.1.2
+matplotlib>=3.2.2
+pandas>=1.1.4
+seaborn>=0.11.0
+PyYAML>=5.3.1
+tqdm>=4.41.0
+pillow>=7.1.2
+
+# MLflow and experiment tracking
+mlflow>=2.0.0
+optuna>=3.0.0
+scikit-learn>=0.24.0
+
+# Data augmentation
+albumentations>=1.0.0
+
+# Model serving
+flask>=2.0.0
+gunicorn>=20.0.4
+
+# Other utilities
+psutil>=5.8.0
+py-cpuinfo>=8.0.0
