@@ -1,6 +1,6 @@
 # YOLOv8 MLOps Pipeline 🚀
 
-A complete end-to-end MLOps pipeline for training, evaluating, and serving YOLOv8 object detection models with integrated experiment tracking through MLflow. Gradio App for trying the model: [Link](https://huggingface.co/spaces/purplewater/Personal-protective-equipment-checker-app)
+A complete end-to-end MLOps pipeline for training, evaluating, and serving YOLOv8 object detection models with integrated experiment tracking through MLflow. Gradio App for trying the model: [Link](https://huggingface.co/spaces/purplewater/Personal-protective-equipment-checker-app).
 
 ## 📋 Project Overview
 
